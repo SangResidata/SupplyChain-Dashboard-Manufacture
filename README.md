@@ -15,7 +15,6 @@ Here is a professional and comprehensive `README.md` template you can use for yo
 
 This repository contains a comprehensive **Power BI Dashboard** focused on **Supply Chain Management (SCM)** within a manufacturing context. The project aims to provide end-to-end visibility into the supply chain, from procurement and production to distribution and inventory management.
 
-As someone with a background in **Industrial Engineering from Universitas Indonesia and ITATS**, I designed this dashboard to solve common manufacturing bottlenecks using data.
 
 ## 🚀 Business Problem & Objectives
 
