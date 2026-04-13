@@ -1,8 +1,6 @@
 # SupplyChain-Dashboard-Manufacture
 Study Case Repository about Supply Chain Management in Manufacturing.  
 
-This is a great addition to your portfolio, especially given your strong background in **Industrial Engineering**. A well-structured Supply Chain Management Dashboard demonstrates your ability to bridge the gap between complex supply chain operations and data-driven decision-making.
-
 -----
 
 # 🏭 SCM Manufacturing Analytics Dashboard
