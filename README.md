@@ -1,5 +1,5 @@
 # SupPlychain-dashboard-manufacturing
-Study Case Repository about Supply Chain Management in Manufacturing.  
+Study Case Repository about Supply Chain Management in Manufacturing   
 
 -----
 
