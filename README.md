@@ -1,4 +1,4 @@
-# SupplyChain-Dashboard-Manufacture
+# SupPlychain-dashboard-manufacturing
 Study Case Repository about Supply Chain Management in Manufacturing.  
 
 -----
@@ -21,7 +21,7 @@ Manufacturing supply chains often suffer from siloed data, leading to stockouts,
   * **Production Efficiency:** Track output vs. targets to identify manufacturing delays
   * **Cost Control:** Visualize procurement and logistics spending to identify cost-saving opportunities
 
-## 📊 Key Metrics (KPIs)
+## 📊 Key Metrics
 
 The dashboard tracks several critical supply chain metrics, including:
 
