@@ -9,7 +9,7 @@ Study Case Repository about Supply Chain Management in Manufacturing
 
 ## 📌 Project Overview
 
-This repository contains a comprehensive **Power BI Dashboard** focused on **Supply Chain Management (SCM)** within a manufacturing context. The project aims to provide end-to-end visibility into the supply chain, from procurement and production to distribution and inventory management.
+This repository contains a comprehensive **Power BI Dashboard** focused on **Supply Chain Management (SCM)** within a manufacturing context. This project aims to provide end-to-end visibility into the supply chain, from procurement and production to distribution and inventory management.
 
 
 ## 🚀 Business Problem & Objectives
