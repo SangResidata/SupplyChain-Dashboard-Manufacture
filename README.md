@@ -36,7 +36,7 @@ The dashboard tracks several critical supply chain metrics, including:
   * **Tool:** Microsoft Power BI.  
   * **Data Transformation:** Power Query (M Language).  
   * **Analytics:** DAX (Data Analysis Expressions) for complex measures and calculated columns.
-  * **Data Source:** [Mention your data source here, e.g., SQL Server, Excel, or Kaggle CSV].
+  * **Data Source:** csv and SQL.  
 
 ## 📁 Repository Structure
 
