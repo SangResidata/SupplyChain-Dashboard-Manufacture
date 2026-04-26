@@ -1,5 +1,4 @@
-# SupPlychain-dashboard-manufacturing
-Study Case Repository about Supply Chain Management in Manufacturing.   
+# Supllychain-dashboard-manufacturing StudyCase Repository about SSupplyChain Management in Manufacturing.   
 
 -----
 
@@ -34,7 +33,7 @@ The dashboard tracks several critical supply chain metrics, including:
 ## 🛠️ Tech Stack
 
   * **Tool:** Microsoft Power BI.  
-  * **Data Transformation:** Power Query (M Language).  
+  * **Data Transformation:** Power Query.  
   * **Analytics:** DAX (Data Analysis Expressions) for complex measures and calculated columns.
   * **Data Source:** csv and SQL.  
 
