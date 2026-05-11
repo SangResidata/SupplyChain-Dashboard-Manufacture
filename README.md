@@ -1,4 +1,4 @@
-# Supllychain-dashboard-manufacturing StudyCase Repository about SSupplyChain Management in Manufacturing.   
+# Supplychain-dashboard-manufacturing StudyCase Repository about SupplyChain Management in Manufacturing.   
 
 -----
 
