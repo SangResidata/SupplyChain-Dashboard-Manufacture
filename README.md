@@ -17,8 +17,8 @@ Manufacturing supply chains often suffer from siloed data, leading to stockouts,
 
   * **Monitor Inventory Health:** Identify slow-moving items and optimize stock levels.
   * **Analyze Supplier Performance:** Evaluate lead times and quality across different vendors.
-  * **Production Efficiency:** Track output vs. targets to identify manufacturing delays.
-  * **Cost Control:** Visualize procurement and logistics spending to identify cost-saving opportunities.
+  * **Production Efficiency:** Track output vs. targets to identify manufacturing delays
+  * **Cost Control:** Visualize procurement and logistics spending to identify cost-saving opportunities
 
 ## 📊 Key Metrics
 
